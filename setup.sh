@@ -56,7 +56,8 @@ brew install --cask \
 	docker \
 	discord \
 	vlc \
-	zoom
+	zoom \
+	git-credential-manager
 
 # =====================
 # Install terminal apps
