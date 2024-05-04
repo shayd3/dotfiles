@@ -67,7 +67,10 @@ brew install \
 	git \
 	nvm \
 	pnpm \
-	cmatrix
+	cmatrix \
+	xclip \
+	ripgrep \
+	neovim \
 
 # ======================
 # Install Fira Code font
