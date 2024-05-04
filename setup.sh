@@ -51,6 +51,7 @@ brew install --cask \
 	google-chrome \
 	firefox \
 	brave-browser \
+	spotify \
 	iterm2 \
 	visual-studio-code \
 	docker \
